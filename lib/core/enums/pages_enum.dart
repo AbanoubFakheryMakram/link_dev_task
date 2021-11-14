@@ -1,0 +1,8 @@
+
+enum Pages {
+  ARTICLES,
+  LIVE_CHAT,
+  GALLERY,
+  WISH_LIST,
+  EXPLORE_ONLINE_NEWS,
+}
